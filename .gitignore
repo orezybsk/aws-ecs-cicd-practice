@@ -1,0 +1,13 @@
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# terraform files
+.terraform/
+terraform.tfstate
+terraform.tfvars
+
+# direnv files
+.envrc
